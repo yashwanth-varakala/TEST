@@ -1,0 +1,2 @@
+# TEST
+testing all commands
